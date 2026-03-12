@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://logictiles.com/logo.svg" width="80" alt="LOGICtILES Logo"/>
   
-  # LOGICtILES
+  # LogicTiles
   
   **Custom ASIC & FPGA Design · Silicon Verification · Security IP**
   
